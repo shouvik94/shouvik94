@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shouvik94
 - 👀 I’m interested in games and technology
 - 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on ??
+- 💞️ I’m looking to collaborate on hardware projects
 - 📫 How to reach me coolshouvik9@gmail.com
 
 <!---
